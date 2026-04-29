@@ -1,4 +1,4 @@
-Food,250
+Food,300
 Transport,100
 Food,300
 Entertainment,500
